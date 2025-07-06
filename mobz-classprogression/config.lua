@@ -21,6 +21,11 @@ Config = {}
             print(rankUp, player)
         end
     },
+
+add xp with xperience
+
+exports.xperience:AddXP(10) -- will add 10
+
 --]]
 
 -- XP-based job promotion from xperience/common/ranks.lua 
